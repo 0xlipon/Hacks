@@ -1,0 +1,2 @@
+# Hacks
+Cool Simple Hacks!
